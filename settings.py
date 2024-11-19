@@ -5,3 +5,5 @@ class Settings:
         self.screen_height = 600
         self.bg_color = (0, 0, 139)
         self.caption = 'Terrarium'
+        self.bgpath = "bg.jpg"
+        self.scroll_speed = 4
