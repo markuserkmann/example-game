@@ -15,7 +15,7 @@ tiles = math.ceil(g.screen_width / bg.get_width()) + 1
 running = True
 
 while running:
-    clock.tick(34)
+    clock.tick(35d)
 
     i = 0
     while(i < tiles):
